@@ -12,3 +12,4 @@ hostname -I > ~/Downloads/whiteboard_pi/ip.md
 git add -A
 git commit -m "AUTO: RasPi IP address [$(date)]"
 git push origin raspberrypi
+sudo systemctl status onwifi.service
