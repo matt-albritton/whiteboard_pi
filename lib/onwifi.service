@@ -1,0 +1,14 @@
+[Unit]
+Description=Upload IP to Github
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=mattspi
+WorkingDirectory=/home/mattspi
+ExecStartPre=/bin/sh -c 'until ping -c1 github.com; do sleep 1; done;'
+ExecStart=/bin/sh /home/mattspi/Downloads/whiteboard_pi/lib/onwifi.sh
+
+[Install]
+WantedBy=multi-user.target
