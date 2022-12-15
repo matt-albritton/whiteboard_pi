@@ -1,4 +1,4 @@
-# whiteboard_pi
+# The RoboBoard
 A repo for my CS490 thesis project "robotic whiteboad".
 
 ---VIDEOS COMING SOON----
