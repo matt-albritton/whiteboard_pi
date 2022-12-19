@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="397.394"
+     inkscape:cx="358.14958"
      inkscape:cy="230.5168"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -195,43 +195,35 @@
        inkscape:label="Quote"><tspan
          x="457.40855"
          y="88.167939"
-         id="tspan690">L1
+         id="tspan315">L1
 </tspan><tspan
          x="457.40855"
          y="109.83456"
-         id="tspan692">L2
+         id="tspan317">L2
 </tspan><tspan
          x="457.40855"
          y="131.50119"
-         id="tspan694">L3
+         id="tspan319">L3
 </tspan><tspan
          x="457.40855"
          y="153.16782"
-         id="tspan696">L4
+         id="tspan321">L4
 </tspan><tspan
          x="457.40855"
          y="174.83444"
-         id="tspan698">L5
+         id="tspan323">L5
 </tspan><tspan
          x="457.40855"
          y="196.50107"
-         id="tspan700">L6
+         id="tspan325">L6
 </tspan><tspan
          x="457.40855"
          y="218.16769"
-         id="tspan702">L7
+         id="tspan327">L7
 </tspan><tspan
          x="457.40855"
          y="239.83432"
-         id="tspan704">L8</tspan></text>
-    <rect
-       style="fill:none;stroke:none;stroke-width:0;stroke-dasharray:none"
-       id="rect9795"
-       width="80.26104"
-       height="67.913185"
-       x="81.383575"
-       y="179.96051"
-       transform="translate(0)" />
+         id="tspan329">L8</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.23003977,0,0,0.23003977,0.29847503,224.68652)"
@@ -240,7 +232,7 @@
        inkscape:label="yOpp"><tspan
          x="748.55327"
          y="72.166045"
-         id="tspan706">Harvard: ay00</tspan></text>
+         id="tspan331">Harvard: ay00</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.23003977,0,0,0.23003977,0.51396993,218.51526)"
@@ -249,7 +241,7 @@
        inkscape:label="Yale"><tspan
          x="783.78768"
          y="72.166045"
-         id="tspan708">Yale: y11</tspan></text>
+         id="tspan333">Yale: y11</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
        d="m 171.82247,226.88939 45.73512,-1e-5"
@@ -264,7 +256,7 @@
        inkscape:label="cOpp"><tspan
          x="710.18082"
          y="72.166045"
-         id="tspan710">Timberwolves: ac00</tspan></text>
+         id="tspan335">Timberwolves: ac00</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.23003977,0,0,0.23003977,1.0468298,199.52443)"
@@ -273,7 +265,7 @@
        inkscape:label="Celts"><tspan
          x="766.30719"
          y="72.166045"
-         id="tspan712">Celtics: c11</tspan></text>
+         id="tspan337">Celtics: c11</tspan></text>
     <path
        sodipodi:type="spiral"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
@@ -314,9 +306,9 @@
        inkscape:label="Sports"><tspan
          x="687.31516"
          y="169.49606"
-         id="tspan716"><tspan
+         id="tspan341"><tspan
            style="fill:#000000"
-           id="tspan714">Sports</tspan></tspan></text>
+           id="tspan339">Sports</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.241797;stroke-opacity:1"
        id="rect3249"
@@ -335,47 +327,47 @@
        inkscape:label="Schedule"><tspan
          x="220.41571"
          y="136.25192"
-         id="tspan718">T1
+         id="tspan343">T1
 </tspan><tspan
          x="220.23375"
          y="157.91855"
-         id="tspan720">E1
+         id="tspan345">E1
 </tspan><tspan
          x="224.96909"
          y="179.58518"
-         id="tspan722">--
+         id="tspan347">--
 </tspan><tspan
          x="220.41571"
          y="201.2518"
-         id="tspan724">T2
+         id="tspan349">T2
 </tspan><tspan
          x="220.23375"
          y="222.91843"
-         id="tspan726">E2
+         id="tspan351">E2
 </tspan><tspan
          x="224.96909"
          y="244.58505"
-         id="tspan728">--
+         id="tspan353">--
 </tspan><tspan
          x="220.41571"
          y="266.25168"
-         id="tspan730">T3
+         id="tspan355">T3
 </tspan><tspan
          x="220.23375"
          y="287.91831"
-         id="tspan732">E3
+         id="tspan357">E3
 </tspan><tspan
          x="224.96909"
          y="309.58493"
-         id="tspan734">--
+         id="tspan359">--
 </tspan><tspan
          x="220.41571"
          y="331.25156"
-         id="tspan736">T4
+         id="tspan361">T4
 </tspan><tspan
          x="220.23375"
          y="352.91818"
-         id="tspan738">E4</tspan></text>
+         id="tspan363">E4</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
        d="m 31.719513,170.78605 c 0.392478,0.92014 0.742625,1.88212 1.190625,2.77812 0.02789,0.0558 0.11257,0.0731 0.132292,0.13229 0.02789,0.0837 -0.06236,0.20223 0,0.26459 0.07625,0.0763 1.95132,0.13229 2.248958,0.13229 1.607325,0 3.228099,0.11902 4.7625,-0.26458 0.132292,-0.0331 0.264583,0.0661 0.396875,0 0.19721,-0.0986 0.326509,-0.31002 0.529167,-0.39688 0.202657,-0.0868 0.464248,0.0986 0.661458,0 0.19721,-0.0986 0.331957,-0.29827 0.529167,-0.39687 0.07888,-0.0394 0.191201,0.0489 0.264583,0 0.528352,-0.35224 -0.03601,-0.14442 0.132292,-0.39688 0.103777,-0.15567 0.337711,-0.21939 0.396875,-0.39687 0.02789,-0.0837 -0.04892,-0.1912 0,-0.26459 0.05469,-0.082 0.209888,-0.0502 0.264583,-0.13229 0.04892,-0.0734 -0.02789,-0.18091 0,-0.26458 0.07029,-0.21087 0.677807,-1.04199 0.396875,-1.32292 -0.06331,-0.0633 -1.091629,-0.0495 -1.190625,0 -0.07921,0.0396 -0.104855,0.48801 -0.132292,0.52917 -0.352234,0.52835 -0.14442,-0.036 -0.396875,0.13229 -0.103777,0.0692 -0.17639,0.17639 -0.264583,0.26458 -0.0986,0.0986 -0.03369,0.29827 -0.132292,0.39688 -0.06236,0.0624 -0.17639,0 -0.264583,0 -0.191371,0 -2.089658,0.11428 -2.116667,0.13229 -0.103777,0.0692 -0.160806,0.1954 -0.264583,0.26458 -0.209315,0.13955 -0.716727,-0.007 -0.926042,0.13229 -0.103777,0.0692 -0.148778,0.21827 -0.264583,0.26459 -0.05627,0.0225 -3.395438,0.1911 -3.571875,0.13229 -0.108905,-0.0363 -0.888772,-0.4919 -0.926042,-0.52917 -0.03118,-0.0312 0.03944,-0.11257 0,-0.13229 -0.07888,-0.0394 -0.202221,0.0624 -0.264583,0 -0.06236,-0.0624 0.03944,-0.1857 0,-0.26458 -0.07888,-0.15777 -0.361828,0.0558 -0.529167,0 -0.04183,-0.0139 0.03944,-0.11257 0,-0.13229 -0.616347,-0.30818 -0.661458,0.6212 -0.661458,-0.66146 z"
@@ -403,11 +395,11 @@
        inkscape:label="Temps"><tspan
          x="497.78144"
          y="37.259736"
-         id="tspan740">High: HiT°F
+         id="tspan365">High: HiT°F
 </tspan><tspan
          x="503.37518"
          y="63.926362"
-         id="tspan742">Low: LoT°F</tspan></text>
+         id="tspan367">Low: LoT°F</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,61.721722,160.66259)"
@@ -418,7 +410,7 @@
        inkscape:label="Conditions"><tspan
          x="563.07151"
          y="34.90042"
-         id="tspan744">c1234</tspan></text>
+         id="tspan369">c1234</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.266839"
        d="m 181.47718,162.50318 c -0.56605,34.34043 46.79356,28.49124 46.79356,28.49124"
@@ -438,7 +430,7 @@
        inkscape:label="Date"><tspan
          x="258.67106"
          y="44.345675"
-         id="tspan746">Wednesday, Dec 14</tspan></text>
+         id="tspan371">Wednesday, Dec 14</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264583"
        id="rect1015"

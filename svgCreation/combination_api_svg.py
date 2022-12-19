@@ -85,12 +85,12 @@ def getQuote():
     url = "https://quotes.rest/qod?category=inspire&language=en"
     response = requests.get(url)
     data = json.loads(response.text)
-   #  qLength = data["contents"]["quotes"][0]["length"]
-   #  quoteList = data["contents"]["quotes"][0]["quote"].split()
-   #  author = data["contents"]["quotes"][0]["author"]
-    qLength = len("Your life does not get better by chance. It gets better by change.")
-    quoteList = "Your life does not get better by chance. It gets better by change.".split()
-    author = "Jim Rohn"
+    qLength = data["contents"]["quotes"][0]["length"]
+    quoteList = data["contents"]["quotes"][0]["quote"].split()
+    author = data["contents"]["quotes"][0]["author"]
+    # qLength = len("Your life does not get better by chance. It gets better by change.")
+    # quoteList = "Your life does not get better by chance. It gets better by change.".split()
+    # author = "Jim Rohn"
     quoteLines = []
     tempString = ""
     for i, word in enumerate(quoteList):
