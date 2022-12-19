@@ -395,11 +395,11 @@
        inkscape:label="Temps"><tspan
          x="497.78144"
          y="37.259736"
-         id="tspan365">High: 39°F
+         id="tspan365">High: 38°F
 </tspan><tspan
          x="503.37518"
          y="63.926362"
-         id="tspan367">Low: 32°F</tspan></text>
+         id="tspan367">Low: 31°F</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,61.721722,160.66259)"
@@ -410,7 +410,7 @@
        inkscape:label="Conditions"><tspan
          x="563.07151"
          y="34.90042"
-         id="tspan369">Scattered clouds</tspan></text>
+         id="tspan369">Clear sky</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.266839"
        d="m 181.47718,162.50318 c -0.56605,34.34043 46.79356,28.49124 46.79356,28.49124"
