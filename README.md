@@ -6,9 +6,10 @@ Time-Lapse
 https://www.youtube.com/watch?v=O2icEaGkBxk
 [![RoboBoard Time-Lapse](https://img.youtube.com/vi/O2icEaGkBxk/0.jpg)](https://www.youtube.com/watch?v=O2icEaGkBxk)
 
+
 Images:
 ![image](https://user-images.githubusercontent.com/60043682/208540982-f3204b28-4c8a-4b27-b619-90921aa3c8ee.png)
-
+<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/60043682/208540982-f3204b28-4c8a-4b27-b619-90921aa3c8ee.png)" width="100">
 
 Project Abstract:
 	To fulfill my computer science major senior requirement, I designed and built a small robotic whiteboard. The purpose of this build is to fuse the artistic intrigue of robotic-drawing, and the usefulness of a daily dashboard. This device connects to the internet, pulls useful daily information, and draws that information out on the whiteboard autonomously each morning. It is currently configured to display the weather, the previous day’s sports scores, my calendar for the day, and an inspirational quote. The concept came from a desire to explore the interface between machines and art and the concept of a robot doing the inherently human task of writing with a marker. I decided a morning briefing would be a very useful and fun way of putting the machine to use. The drawing mechanism is built on a small whiteboard and utilizes a hanging-v design where two stepper motors control the marker hanging between them. This is driven by an Arduino hooked to a Raspberry Pi to perform the image creation and control. The code base is built on a pre-existing repository for the control of drawing machines. The bulk of my work built upon this, fine tuning to my build and automating the data collection, image creation, and drawing initiation processes. I wrote a combination of Python and Bash scripts to automate the data gathering process and utilized Inkscape for SVG file creation and editing. I then passed those to a Processing script which interfaced with the Arduino to control the robot. The final product is a completely autonomous system that is practical to the user, visually engaging, and technologically captivating. 
