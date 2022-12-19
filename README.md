@@ -4,6 +4,7 @@ A repo for my CS490 thesis project "robotic whiteboad".
 Videos:
 Time-Lapse
 https://www.youtube.com/watch?v=O2icEaGkBxk
+[![RoboBoard Time-Lapse](https://img.youtube.com/vi/O2icEaGkBxk/0.jpg)](https://www.youtube.com/watch?v=O2icEaGkBxk)
 
 Images:
 ![image](https://user-images.githubusercontent.com/60043682/208540982-f3204b28-4c8a-4b27-b619-90921aa3c8ee.png)
