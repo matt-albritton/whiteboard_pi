@@ -129,6 +129,14 @@ class Hershey(inkex.Effect):
             help="Text to use for font table",
         )
 
+        self.arg_parser.add_argument(
+            "--select",
+            dest="ids",
+            default="",
+            help="Option to select ids to convert",
+        )
+
+
         self.font_file_list = dict()
         self.font_load_fail = False
 

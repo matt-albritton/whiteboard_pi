@@ -38,7 +38,7 @@ def getCeltics():
     for i in range((len(sch.dataframe)-1), 0, -1):
         # print(i)
         # This is AWFULY SLOW to iterate through and compare. only max of 80ish rows, but still brutal.
-        if sch.dataframe.iloc[i][2].date() < today:
+        if sch.dataframe.iloc[i][2].date() < today- timedelta(days = 1):
             curGame=i
             break
     lastGame = sch.dataframe.iloc[curGame]
@@ -57,7 +57,7 @@ def getYale():
     curGame = 0
     # print(sch.dataframe.iloc[1]['datetime'])
     for i in range((len(sch.dataframe)-1), 0, -1):
-        if sch.dataframe.iloc[i]['datetime'].date() < today:
+        if sch.dataframe.iloc[i]['datetime'].date() < today- timedelta(days = 1):
             curGame=i
             break
     lastGame = sch.dataframe.iloc[curGame]
@@ -176,7 +176,7 @@ def doReplacments():
    svgInFile.close()
    #replace with new data
    svgOut = svgIn.replace("Wednesday, Dec 14", date.today().strftime("%A, %b. %d"))
-   svgOut = svgOut.replace("Condition", conditions)
+   svgOut = svgOut.replace("c1234", conditions)
    svgOut = svgOut.replace("HiT", str(high))
    svgOut = svgOut.replace("LoT", str(low))
    svgOut = svgOut.replace("Timberwolves", cOpp)
