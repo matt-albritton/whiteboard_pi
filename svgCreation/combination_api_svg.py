@@ -25,6 +25,8 @@ yOpp = "Harv"   #yale bball
 yScore = 50
 yOppScore = 45
 quoteLines = [] #quote
+fullQuote = ""
+author = ""
 events = [['','']] *4 #calander
 
 svgOut = ""
@@ -81,12 +83,13 @@ def getWeather():
 
 
 def getQuote():
-    global quoteLines
+    global quoteLines, fullQuote, author
     url = "https://quotes.rest/qod?category=inspire&language=en"
     response = requests.get(url)
     data = json.loads(response.text)
     qLength = data["contents"]["quotes"][0]["length"]
     quoteList = data["contents"]["quotes"][0]["quote"].split()
+    fullQuote = data["contents"]["quotes"][0]["quote"]
     author = data["contents"]["quotes"][0]["author"]
     # qLength = len("Your life does not get better by chance. It gets better by change.")
     # quoteList = "Your life does not get better by chance. It gets better by change.".split()
@@ -193,10 +196,12 @@ def doReplacments():
    svgOut = svgOut.replace("E3", events[2][1])
    svgOut = svgOut.replace("T4", events[3][0])
    svgOut = svgOut.replace("E4", events[3][1])
-   for i, line in enumerate(quoteLines):
-      svgOut = svgOut.replace(f"L{str(i+1)}", line)
-   for i in range(1,8):
-      svgOut = svgOut.replace(f"L{str(i+1)}", "")
+   svgOut = svgOut.replace("L1", fullQuote)
+   svgOut = svgOut.replace("L2", f"-{author}")
+#    for i, line in enumerate(quoteLines):
+#       svgOut = svgOut.replace(f"L{str(i+1)}", line)
+#    for i in range(1,8):
+#       svgOut = svgOut.replace(f"L{str(i+1)}", "")
 
 
 
