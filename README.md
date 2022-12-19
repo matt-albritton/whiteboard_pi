@@ -12,3 +12,15 @@ Found here: https://github.com/euphy/polargraphcontroller/tree/2017-11-01-20-30
 
 This repo holds all necessary added functionality of the rasberry pi - so acts as a form of back up as well.
 It holds the two main code bases, the pi and the arduino.
+
+
+================= Running The Project ================
+In the top level directory, this project can be ran simply by calling "python always_on.py". 
+This small python file will run, and whenever it is 6am, will call the bash script "run.sh"
+This first runs the python file "combination_api_svg.py" which calls all necessary apis. Then, using "dash_og.svg" it fills in all the information into the proper 
+locations in the svg file. That is saved to "dashboard.svg" 
+Next run.sh calls an inkscape action to transform the date text into a path- getting the block letters and simplifies the nodes. This is saved in temp.svg
+Then it converts the rest of the text into hershey text, using "hershey.py" (an inkscape extension) This is saved in hershed.svg
+Lastly run.sh runs the processing script "polargraphcontroller" which is set to import hershed.svg automatically and begin transmiting to the arduino to draw. 
+The processing window is killed after 5 hours when the drawing is complete, but "always_on.py" continues to run.
+
