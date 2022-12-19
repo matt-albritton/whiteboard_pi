@@ -14,8 +14,8 @@ Images:
 Base Format: 
 ![image](https://user-images.githubusercontent.com/60043682/208540982-f3204b28-4c8a-4b27-b619-90921aa3c8ee.png)
 
-With API data input: 
-![image](https://user-images.githubusercontent.com/60043682/208541986-c46ad3f5-e0f0-4715-83b2-448a43d5ec39.png)
+With API data input:
+![image](https://user-images.githubusercontent.com/60043682/208544381-79d9e868-22fb-40a2-bb80-36d15b3f13d9.png)
 
 Text -> Hershey Text: 
 ![image](https://user-images.githubusercontent.com/60043682/208542482-05af0eb9-95b6-44f0-bac0-64b23e23e87b.png)
