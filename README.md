@@ -5,7 +5,9 @@ Videos:
 Time-Lapse
 https://www.youtube.com/watch?v=O2icEaGkBxk
 [![RoboBoard Time-Lapse](https://img.youtube.com/vi/O2icEaGkBxk/0.jpg)](https://www.youtube.com/watch?v=O2icEaGkBxk)
-
+Start-Up
+https://www.youtube.com/watch?v=GFNDBqp8anI
+[![RoboBoard Time-Lapse](https://img.youtube.com/vi/GFNDBqp8anI/0.jpg)](https://www.youtube.com/watch?v=GFNDBqp8anI)
 
 Images:
 Base Format:
@@ -13,7 +15,7 @@ Base Format:
 With API data input:
 ![image](https://user-images.githubusercontent.com/60043682/208541986-c46ad3f5-e0f0-4715-83b2-448a43d5ec39.png)
 Text -> Hershey Text:
-
+![image](https://user-images.githubusercontent.com/60043682/208542482-05af0eb9-95b6-44f0-bac0-64b23e23e87b.png)
 On Whiteboard:
 ![IMG_4959](https://user-images.githubusercontent.com/60043682/208542254-e3e2f325-6ddf-4a7b-bdfa-88f5fbf9f31e.jpg)
 
