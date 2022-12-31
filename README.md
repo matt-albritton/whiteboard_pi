@@ -1,6 +1,9 @@
 # The RoboBoard
 A repo for my CS490 thesis project "robotic whiteboad".
 
+Final Writeup:
+https://drive.google.com/file/d/1fR7KXrv4AAl0u252UBi9K_cug9v1NrdN/view?usp=sharing
+
 Videos:
 Time-Lapse
 https://www.youtube.com/watch?v=O2icEaGkBxk
